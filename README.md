@@ -28,6 +28,7 @@ git clone https://github.com/I-AdityaGoyal/Numpy-Pandas_beginner_to_advance.git
 - NumPy 🧮
 - Pandas 🐼
 - Jupyter Notebook 📓
+  
 You can install these dependencies using the following command:
 ```bash
 pip install numpy pandas jupyter

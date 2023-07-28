@@ -21,7 +21,7 @@ To use this notebook, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 ```bash
-git clone https://github.com/I-AdityaGoyal/Numpy-Pandas_beginner_to_advance.git
+https://github.com/I-AdityaGoyal/Numpy-Pandas_Repository.git
 ```
 
 2. **Environment Setup**: Ensure you have Python (version 3.6 or higher) installed on your system. You will need the following libraries:
